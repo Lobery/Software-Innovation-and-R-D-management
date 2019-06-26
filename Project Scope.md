@@ -18,8 +18,8 @@ QTime针对的用户是学校中的学生，如果将QTime进一步推广，QTim
 QTime使用了Keras库对图像数据进行深度学习，利用CPS算法进行人像特征的提取，从而有效地识别图像信号中排队的人数，以及根据时间变化队伍移动的速度，计算预计排队时间。
 <h2>2.5 技术架构</h2>
 
-应用管理：Kubernetes
-前端：微信小程序
-后端: Keras
-集成化工具：jenkins
+应用管理：Kubernetes<br>
+前端：微信小程序<br>
+后端: Keras<br>
+集成化工具：jenkins<br>
 代码管理：github
